@@ -1,12 +1,12 @@
 module.exports = {
-  entry: './src/withUnmounted.jsx',
+  entry: './src/withUnmounted.tsx',
   output: {
     libraryTarget: 'umd',
   },
   module: {
     rules: [
       {
-        test: /\.(js|jsx)$/,
+        test: /\.(js|jsx|ts|tsx)$/,
         exclude: /node_modules/,
         use: {
           loader: 'babel-loader',
