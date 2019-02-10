@@ -1,5 +1,9 @@
 # withUnmounted
 
+![](https://img.shields.io/npm/v/@ishawnwang/withunmounted.svg)![](https://img.shields.io/david/iShawnWang/withUnmounted.svg)![](https://img.shields.io/bundlephobia/minzip/@ishawnwang/withunmounted.svg)![](https://img.shields.io/npm/l/@ishawnwang/withunmounted.svg)
+
+
+
 HOC for set a `hasUnmounted` flag when `componentWillUnmount`, bypass `Can't perform a React state update on an unmounted component` warning
 
 # Install
