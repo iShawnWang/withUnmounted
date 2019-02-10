@@ -1,6 +1,6 @@
 # withUnmounted
 
-![](https://img.shields.io/npm/v/@ishawnwang/withunmounted.svg)![](https://img.shields.io/david/iShawnWang/withUnmounted.svg)![](https://img.shields.io/bundlephobia/minzip/@ishawnwang/withunmounted.svg)![](https://img.shields.io/npm/l/@ishawnwang/withunmounted.svg)
+![](https://img.shields.io/npm/v/@ishawnwang/withunmounted.svg) ![](https://img.shields.io/david/iShawnWang/withUnmounted.svg)  ![](https://img.shields.io/bundlephobia/minzip/@ishawnwang/withunmounted.svg) ![](https://img.shields.io/npm/l/@ishawnwang/withunmounted.svg)
 
 
 
