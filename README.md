@@ -1,8 +1,6 @@
 # withUnmounted
 
-![](https://img.shields.io/npm/v/@ishawnwang/withunmounted.svg) ![](https://img.shields.io/david/iShawnWang/withUnmounted.svg)  ![](https://img.shields.io/bundlephobia/minzip/@ishawnwang/withunmounted.svg) ![](https://img.shields.io/npm/l/@ishawnwang/withunmounted.svg)
-
-
+![](https://img.shields.io/npm/v/@ishawnwang/withunmounted.svg) ![](https://img.shields.io/david/iShawnWang/withUnmounted.svg) ![](https://img.shields.io/bundlephobia/minzip/@ishawnwang/withunmounted.svg) ![](https://img.shields.io/npm/l/@ishawnwang/withunmounted.svg)
 
 HOC for set a `hasUnmounted` flag when `componentWillUnmount`, bypass `Can't perform a React state update on an unmounted component` warning
 
@@ -12,7 +10,7 @@ HOC for set a `hasUnmounted` flag when `componentWillUnmount`, bypass `Can't per
 
 # Usage
 
-`import withUnmounted from 'withUnmounted'`
+`import withUnmounted from '@ishawnwang/withunmounted'`
 
 ```javascript
 class YourCompoment extends Component {

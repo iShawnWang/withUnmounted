@@ -1,1 +1,1 @@
-declare module 'withUnmounted';
+declare module '@ishawnwang/withunmounted';

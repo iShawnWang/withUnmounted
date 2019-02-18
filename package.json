@@ -1,6 +1,6 @@
 {
   "name": "@ishawnwang/withunmounted",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "HOC for set a flag when componentWillUnmount, bypass `Can't perform a React state update on an unmounted component` warning",
   "main": "dist/main.js",
   "scripts": {
@@ -24,8 +24,8 @@
   },
   "homepage": "https://github.com/iShawnWang/withUnmounted#readme",
   "peerDependencies": {
-    "react": "^16.7.0",
-    "react-dom": "^16.7.0"
+    "react": "^16.8.2",
+    "react-dom": "^16.8.2"
   },
   "devDependencies": {
     "@babel/core": "^7.2.2",
@@ -37,8 +37,9 @@
     "@types/react": "^16.8.2",
     "@types/react-dom": "^16.8.0",
     "babel-loader": "^8.0.5",
-    "react": "^16.7.0",
-    "react-dom": "^16.7.0",
+    "react": "^16.8.2",
+    "react-dom": "^16.8.2",
+    "terser": "^3.16.1",
     "tslint": "^5.12.1",
     "tslint-config-prettier": "^1.18.0",
     "tslint-react": "^3.6.0",
