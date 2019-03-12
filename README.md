@@ -6,7 +6,7 @@ HOC for set a `hasUnmounted` flag when `componentWillUnmount`, bypass `Can't per
 
 # Install
 
-`npm install --save @iShawnWang/withUnmounted`
+`npm install --save @ishawnwang/withunmounted`
 
 # Usage
 
